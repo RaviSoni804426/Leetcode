@@ -10,4 +10,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/RaviSoni804426/Leetcode/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/RaviSoni804426/Leetcode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
