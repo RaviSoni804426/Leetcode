@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/RaviSoni804426/Leetcode/tree/master/0066-plus-one) |
 | [1580-shuffle-the-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/RaviSoni804426/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/RaviSoni804426/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RaviSoni804426/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/1635-number-of-good-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/RaviSoni804426/Leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
