@@ -28,6 +28,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/RaviSoni804426/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/RaviSoni804426/Leetcode/tree/master/0067-add-binary) |
+| [0782-jewels-and-stones](https://github.com/RaviSoni804426/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/RaviSoni804426/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Binary Search
@@ -53,6 +54,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/RaviSoni804426/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
