@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/RaviSoni804426/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
 | [1580-shuffle-the-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/RaviSoni804426/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/RaviSoni804426/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RaviSoni804426/Leetcode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RaviSoni804426/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
