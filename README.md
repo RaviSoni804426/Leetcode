@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/RaviSoni804426/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/RaviSoni804426/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/RaviSoni804426/Leetcode/tree/master/0067-add-binary) |
 | [0782-jewels-and-stones](https://github.com/RaviSoni804426/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RaviSoni804426/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
