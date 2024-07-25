@@ -41,6 +41,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/RaviSoni804426/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/RaviSoni804426/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0169-majority-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0169-majority-element) |
 | [0782-jewels-and-stones](https://github.com/RaviSoni804426/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [3412-permutation-difference-between-two-strings](https://github.com/RaviSoni804426/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Counting
 |  |
 | ------- |
