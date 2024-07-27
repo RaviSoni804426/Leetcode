@@ -44,6 +44,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/RaviSoni804426/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2128-reverse-prefix-of-word](https://github.com/RaviSoni804426/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-minimum-moves-to-convert-string](https://github.com/RaviSoni804426/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/RaviSoni804426/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/RaviSoni804426/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/3379-score-of-a-string) |
@@ -139,6 +140,7 @@
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/RaviSoni804426/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2066-add-minimum-number-of-rungs](https://github.com/RaviSoni804426/Leetcode/tree/master/2066-add-minimum-number-of-rungs) |
+| [2154-minimum-moves-to-convert-string](https://github.com/RaviSoni804426/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 ## Stack
 |  |
 | ------- |
