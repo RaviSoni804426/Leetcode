@@ -41,6 +41,7 @@
 | [0412-fizz-buzz](https://github.com/RaviSoni804426/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/RaviSoni804426/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/RaviSoni804426/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/RaviSoni804426/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/RaviSoni804426/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2128-reverse-prefix-of-word](https://github.com/RaviSoni804426/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
