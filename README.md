@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
 | [1580-shuffle-the-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/RaviSoni804426/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RaviSoni804426/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -148,4 +149,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RaviSoni804426/Leetcode/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
