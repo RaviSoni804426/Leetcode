@@ -21,6 +21,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RaviSoni804426/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/RaviSoni804426/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/RaviSoni804426/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/RaviSoni804426/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/RaviSoni804426/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Math
@@ -51,6 +52,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-minimum-moves-to-convert-string](https://github.com/RaviSoni804426/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/RaviSoni804426/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/RaviSoni804426/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3194-find-words-containing-character](https://github.com/RaviSoni804426/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/RaviSoni804426/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
