@@ -22,6 +22,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RaviSoni804426/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/RaviSoni804426/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/RaviSoni804426/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/RaviSoni804426/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/RaviSoni804426/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/RaviSoni804426/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Math
@@ -34,6 +35,7 @@
 | [1635-number-of-good-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RaviSoni804426/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2491-smallest-even-multiple](https://github.com/RaviSoni804426/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/RaviSoni804426/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## String
 |  |
 | ------- |
