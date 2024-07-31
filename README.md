@@ -38,6 +38,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RaviSoni804426/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2491-smallest-even-multiple](https://github.com/RaviSoni804426/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/RaviSoni804426/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/RaviSoni804426/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/RaviSoni804426/Leetcode/tree/master/2752-sum-multiples) |
 ## String
 |  |
