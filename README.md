@@ -9,6 +9,7 @@
 | [0041-first-missing-positive](https://github.com/RaviSoni804426/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/RaviSoni804426/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RaviSoni804426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/RaviSoni804426/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/RaviSoni804426/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RaviSoni804426/Leetcode/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RaviSoni804426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/RaviSoni804426/Leetcode/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RaviSoni804426/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/RaviSoni804426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/RaviSoni804426/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/RaviSoni804426/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
