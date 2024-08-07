@@ -36,6 +36,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/RaviSoni804426/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RaviSoni804426/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/RaviSoni804426/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RaviSoni804426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/RaviSoni804426/Leetcode/tree/master/0412-fizz-buzz) |
@@ -194,4 +195,12 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/RaviSoni804426/Leetcode/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RaviSoni804426/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RaviSoni804426/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
