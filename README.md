@@ -72,6 +72,7 @@
 | [2154-minimum-moves-to-convert-string](https://github.com/RaviSoni804426/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/RaviSoni804426/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/RaviSoni804426/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2580-circular-sentence](https://github.com/RaviSoni804426/Leetcode/tree/master/2580-circular-sentence) |
 | [3194-find-words-containing-character](https://github.com/RaviSoni804426/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/RaviSoni804426/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
