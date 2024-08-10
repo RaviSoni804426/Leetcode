@@ -13,6 +13,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/RaviSoni804426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/RaviSoni804426/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RaviSoni804426/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/RaviSoni804426/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RaviSoni804426/Leetcode/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/RaviSoni804426/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RaviSoni804426/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Database
 |  |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RaviSoni804426/Leetcode/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/RaviSoni804426/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RaviSoni804426/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
@@ -138,6 +141,7 @@
 | [0141-linked-list-cycle](https://github.com/RaviSoni804426/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/RaviSoni804426/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RaviSoni804426/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2128-reverse-prefix-of-word](https://github.com/RaviSoni804426/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Sorting
