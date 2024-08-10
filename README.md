@@ -48,6 +48,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/RaviSoni804426/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/RaviSoni804426/Leetcode/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/RaviSoni804426/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/RaviSoni804426/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/RaviSoni804426/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/RaviSoni804426/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2571-find-the-pivot-integer](https://github.com/RaviSoni804426/Leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Number Theory
 |  |
 | ------- |
