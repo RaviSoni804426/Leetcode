@@ -22,6 +22,7 @@
 | [1635-number-of-good-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/RaviSoni804426/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RaviSoni804426/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/RaviSoni804426/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RaviSoni804426/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2066-add-minimum-number-of-rungs](https://github.com/RaviSoni804426/Leetcode/tree/master/2066-add-minimum-number-of-rungs) |
@@ -156,6 +157,7 @@
 | [0088-merge-sorted-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/RaviSoni804426/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
