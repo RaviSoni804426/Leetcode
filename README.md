@@ -49,6 +49,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RaviSoni804426/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/RaviSoni804426/Leetcode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/RaviSoni804426/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1806-count-of-matches-in-tournament](https://github.com/RaviSoni804426/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/RaviSoni804426/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/RaviSoni804426/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
