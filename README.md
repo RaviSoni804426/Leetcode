@@ -67,6 +67,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/RaviSoni804426/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/RaviSoni804426/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/RaviSoni804426/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2998-count-symmetric-integers](https://github.com/RaviSoni804426/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RaviSoni804426/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/RaviSoni804426/Leetcode/tree/master/3371-harshad-number) |
 ## String
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RaviSoni804426/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/RaviSoni804426/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Two Pointers
 |  |
 | ------- |
