@@ -138,6 +138,7 @@
 | [0041-first-missing-positive](https://github.com/RaviSoni804426/Leetcode/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/RaviSoni804426/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RaviSoni804426/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RaviSoni804426/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/RaviSoni804426/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/RaviSoni804426/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -185,6 +186,7 @@
 | [0125-valid-palindrome](https://github.com/RaviSoni804426/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RaviSoni804426/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RaviSoni804426/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/RaviSoni804426/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0344-reverse-string) |
@@ -217,6 +219,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/RaviSoni804426/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RaviSoni804426/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/RaviSoni804426/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/RaviSoni804426/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RaviSoni804426/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RaviSoni804426/Leetcode/tree/master/0908-middle-of-the-linked-list) |
