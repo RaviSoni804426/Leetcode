@@ -49,6 +49,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/RaviSoni804426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/RaviSoni804426/Leetcode/tree/master/0412-fizz-buzz) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RaviSoni804426/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RaviSoni804426/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RaviSoni804426/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RaviSoni804426/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -120,6 +121,7 @@
 | [0067-add-binary](https://github.com/RaviSoni804426/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/RaviSoni804426/Leetcode/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/RaviSoni804426/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RaviSoni804426/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RaviSoni804426/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RaviSoni804426/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
