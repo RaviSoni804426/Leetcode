@@ -7,6 +7,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/RaviSoni804426/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RaviSoni804426/Leetcode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/RaviSoni804426/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/RaviSoni804426/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaviSoni804426/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -209,6 +210,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RaviSoni804426/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0169-majority-element) |
 ## Trie
 |  |
@@ -273,6 +275,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RaviSoni804426/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/RaviSoni804426/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaviSoni804426/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RaviSoni804426/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
