@@ -35,6 +35,7 @@
 | [2066-add-minimum-number-of-rungs](https://github.com/RaviSoni804426/Leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RaviSoni804426/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2181-smallest-index-with-equal-value](https://github.com/RaviSoni804426/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/RaviSoni804426/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/RaviSoni804426/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
