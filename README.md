@@ -20,6 +20,7 @@
 | [0455-assign-cookies](https://github.com/RaviSoni804426/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/RaviSoni804426/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/RaviSoni804426/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1580-shuffle-the-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RaviSoni804426/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RaviSoni804426/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -171,6 +172,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/RaviSoni804426/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/RaviSoni804426/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Backtracking
 |  |
@@ -285,6 +287,7 @@
 | [0053-maximum-subarray](https://github.com/RaviSoni804426/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/RaviSoni804426/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaviSoni804426/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/RaviSoni804426/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RaviSoni804426/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
