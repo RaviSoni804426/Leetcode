@@ -172,6 +172,7 @@
 | [1635-number-of-good-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/RaviSoni804426/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/RaviSoni804426/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Matrix
 |  |
 | ------- |
