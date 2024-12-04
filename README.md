@@ -43,6 +43,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/RaviSoni804426/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/RaviSoni804426/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/RaviSoni804426/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/RaviSoni804426/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Math
@@ -105,6 +106,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/RaviSoni804426/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/RaviSoni804426/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2580-circular-sentence](https://github.com/RaviSoni804426/Leetcode/tree/master/2580-circular-sentence) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/RaviSoni804426/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/RaviSoni804426/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -142,6 +144,7 @@
 | [2048-build-array-from-permutation](https://github.com/RaviSoni804426/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RaviSoni804426/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +164,7 @@
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/RaviSoni804426/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/RaviSoni804426/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/RaviSoni804426/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Counting
 |  |
