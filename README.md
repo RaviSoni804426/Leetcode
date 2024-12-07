@@ -23,6 +23,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
 | [1046-max-consecutive-ones-iii](https://github.com/RaviSoni804426/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/RaviSoni804426/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RaviSoni804426/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1580-shuffle-the-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RaviSoni804426/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -167,6 +168,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/RaviSoni804426/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
+| [1319-unique-number-of-occurrences](https://github.com/RaviSoni804426/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RaviSoni804426/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/RaviSoni804426/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
