@@ -1,21 +1,31 @@
 class Solution {
 public:
-      int evalRPN(vector<string>& tokens) {
- int n = tokens.size();
-    stack<int>st;
-    for(int i=0;i<n;i++){
-        if(tokens[i] == "+" or tokens[i] == "-" or tokens[i] == "*" or tokens[i] == "/"){
-                int num1 = st.top(); st.pop();
-                int num2 = st.top(); st.pop();
-                int newNum = 0;
-                if(tokens[i] == "+") newNum = num2+num1;
-                else if(tokens[i] == "-") newNum = num2-num1;
-                else if(tokens[i] == "*") newNum = num2*num1;
-                else newNum = num2/num1;
-                st.push(newNum);
+    int solve(int a, int b, string op){
+        if(op=="+"){
+            return b+a;
+        }else if(op=="-"){
+            return b-a;
+        }else if(op=="*"){
+            return b*a;
+        }else{
+            return floor(b/a);
         }
-        else st.push(stoi(tokens[i]));
     }
-    return st.top();
-      }
+    int evalRPN(vector<string>& tokens) {
+        stack<int> st;
+        for(int i=0;i<tokens.size();i++){
+            if(tokens[i]!="+" && tokens[i]!="-" && tokens[i]!="*" && tokens[i]!="/"){
+                int x=stoi(tokens[i]);
+                st.push(x);
+            }else{
+                int a=st.top();
+                st.pop();
+                int b=st.top();
+                st.pop();
+                int ans=solve(a,b,tokens[i]);
+                st.push(ans);
+            }
+        }
+        return st.top();
+    }
 };
