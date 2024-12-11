@@ -20,6 +20,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/RaviSoni804426/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/RaviSoni804426/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/RaviSoni804426/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
@@ -294,6 +295,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/RaviSoni804426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/RaviSoni804426/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/RaviSoni804426/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RaviSoni804426/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Prefix Sum
 |  |
@@ -312,6 +314,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RaviSoni804426/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
