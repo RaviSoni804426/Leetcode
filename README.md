@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RaviSoni804426/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RaviSoni804426/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/RaviSoni804426/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RaviSoni804426/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/RaviSoni804426/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RaviSoni804426/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -103,6 +104,7 @@
 | [0014-longest-common-prefix](https://github.com/RaviSoni804426/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RaviSoni804426/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/RaviSoni804426/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/RaviSoni804426/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/RaviSoni804426/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RaviSoni804426/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -172,6 +174,7 @@
 | [0001-two-sum](https://github.com/RaviSoni804426/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaviSoni804426/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/RaviSoni804426/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/RaviSoni804426/Leetcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/RaviSoni804426/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RaviSoni804426/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -250,6 +253,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RaviSoni804426/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/RaviSoni804426/Leetcode/tree/master/0242-valid-anagram) |
