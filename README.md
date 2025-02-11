@@ -109,6 +109,7 @@
 | [0125-valid-palindrome](https://github.com/RaviSoni804426/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/RaviSoni804426/Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/RaviSoni804426/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/RaviSoni804426/Leetcode/tree/master/0412-fizz-buzz) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/RaviSoni804426/Leetcode/tree/master/0089-gray-code) |
+| [0257-binary-tree-paths](https://github.com/RaviSoni804426/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RaviSoni804426/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -389,18 +391,21 @@
 | ------- |
 | [0100-same-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RaviSoni804426/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RaviSoni804426/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/RaviSoni804426/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
