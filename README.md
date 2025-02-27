@@ -16,6 +16,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/RaviSoni804426/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaviSoni804426/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/RaviSoni804426/Leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RaviSoni804426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
@@ -326,6 +327,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/RaviSoni804426/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/RaviSoni804426/Leetcode/tree/master/0455-assign-cookies) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/RaviSoni804426/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/RaviSoni804426/Leetcode/tree/master/1448-maximum-69-number) |
