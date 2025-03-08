@@ -13,6 +13,7 @@
 | [0041-first-missing-positive](https://github.com/RaviSoni804426/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RaviSoni804426/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RaviSoni804426/Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/RaviSoni804426/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/RaviSoni804426/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RaviSoni804426/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RaviSoni804426/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -289,6 +290,7 @@
 | ------- |
 | [0015-3sum](https://github.com/RaviSoni804426/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/RaviSoni804426/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/RaviSoni804426/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RaviSoni804426/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0169-majority-element) |
