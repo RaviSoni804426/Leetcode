@@ -33,6 +33,7 @@
 | [0503-next-greater-element-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0790-global-and-local-inversions](https://github.com/RaviSoni804426/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
 | [0860-design-circular-queue](https://github.com/RaviSoni804426/Leetcode/tree/master/0860-design-circular-queue) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/RaviSoni804426/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -79,6 +80,7 @@
 | [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/RaviSoni804426/Leetcode/tree/master/0412-fizz-buzz) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RaviSoni804426/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0790-global-and-local-inversions](https://github.com/RaviSoni804426/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RaviSoni804426/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RaviSoni804426/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RaviSoni804426/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
