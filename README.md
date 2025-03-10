@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RaviSoni804426/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RaviSoni804426/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/RaviSoni804426/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RaviSoni804426/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RaviSoni804426/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/RaviSoni804426/Leetcode/tree/master/0056-merge-intervals) |
@@ -73,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RaviSoni804426/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RaviSoni804426/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RaviSoni804426/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/RaviSoni804426/Leetcode/tree/master/0070-climbing-stairs) |
@@ -251,6 +253,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RaviSoni804426/Leetcode/tree/master/0048-rotate-image) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RaviSoni804426/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/RaviSoni804426/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Backtracking
