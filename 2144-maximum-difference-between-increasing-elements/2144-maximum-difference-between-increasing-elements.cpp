@@ -1,22 +1,24 @@
-#include <vector>
-#include <algorithm> 
-using namespace std;
 
 class Solution {
 public:
     int maximumDifference(vector<int>& nums) {
-        int maxDiff = INT_MIN;
-        bool flag = false;
+        int n = nums.size();
+    if (n < 2)
+        return -1;
 
-        for (int i = 0; i < nums.size(); i++) {
-            for (int j = i + 1; j < nums.size(); j++) {
-                if (nums[j] > nums[i] && (nums[j] - nums[i] > maxDiff)) {
-                    maxDiff = nums[j] - nums[i];
-                    flag = true;
-                }
-            }
+    int maxDiff = -1;
+    int left = 0, right = 1;
+
+    while (right < n) {
+        if (nums[left] < nums[right]) {
+            maxDiff = max(maxDiff, nums[right] - nums[left]);
+            right++;
+        } else {
+            left = right;
+            right++;
         }
-        
-        return flag ? maxDiff : -1;
+    }
+
+    return maxDiff;
     }
 };
