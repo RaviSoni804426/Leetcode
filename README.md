@@ -131,6 +131,7 @@
 | [0344-reverse-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/RaviSoni804426/Leetcode/tree/master/0412-fizz-buzz) |
+| [0696-count-binary-substrings](https://github.com/RaviSoni804426/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/RaviSoni804426/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RaviSoni804426/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -302,6 +303,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/RaviSoni804426/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/RaviSoni804426/Leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0696-count-binary-substrings](https://github.com/RaviSoni804426/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/RaviSoni804426/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/RaviSoni804426/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RaviSoni804426/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
