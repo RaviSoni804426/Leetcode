@@ -121,6 +121,7 @@
 | [0006-zigzag-conversion](https://github.com/RaviSoni804426/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/RaviSoni804426/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RaviSoni804426/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/RaviSoni804426/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/RaviSoni804426/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/RaviSoni804426/Leetcode/tree/master/0067-add-binary) |
@@ -288,6 +289,7 @@
 | ------- |
 | [0015-3sum](https://github.com/RaviSoni804426/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RaviSoni804426/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/RaviSoni804426/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/RaviSoni804426/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RaviSoni804426/Leetcode/tree/master/0075-sort-colors) |
@@ -493,4 +495,8 @@
 | [0100-same-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RaviSoni804426/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0226-invert-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
