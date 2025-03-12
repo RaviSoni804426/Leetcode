@@ -15,6 +15,7 @@
 | [0048-rotate-image](https://github.com/RaviSoni804426/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RaviSoni804426/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RaviSoni804426/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/RaviSoni804426/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/RaviSoni804426/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -199,6 +200,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/RaviSoni804426/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/RaviSoni804426/Leetcode/tree/master/0412-fizz-buzz) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/RaviSoni804426/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -258,6 +260,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RaviSoni804426/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RaviSoni804426/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
