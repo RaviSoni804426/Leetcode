@@ -191,6 +191,7 @@
 | [0607-sales-person](https://github.com/RaviSoni804426/Leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/RaviSoni804426/Leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/RaviSoni804426/Leetcode/tree/master/0620-not-boring-movies) |
+| [0627-swap-salary](https://github.com/RaviSoni804426/Leetcode/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/RaviSoni804426/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/RaviSoni804426/Leetcode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/RaviSoni804426/Leetcode/tree/master/1179-game-play-analysis-i) |
