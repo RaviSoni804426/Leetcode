@@ -45,6 +45,7 @@
 | [0503-next-greater-element-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0598-range-addition-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0598-range-addition-ii) |
 | [0790-global-and-local-inversions](https://github.com/RaviSoni804426/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
 | [0860-design-circular-queue](https://github.com/RaviSoni804426/Leetcode/tree/master/0860-design-circular-queue) |
@@ -93,6 +94,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/RaviSoni804426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/RaviSoni804426/Leetcode/tree/master/0412-fizz-buzz) |
+| [0598-range-addition-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0598-range-addition-ii) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RaviSoni804426/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0790-global-and-local-inversions](https://github.com/RaviSoni804426/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [1048-clumsy-factorial](https://github.com/RaviSoni804426/Leetcode/tree/master/1048-clumsy-factorial) |
