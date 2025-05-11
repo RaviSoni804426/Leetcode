@@ -233,6 +233,7 @@
 | [1892-find-total-time-spent-by-each-employee](https://github.com/RaviSoni804426/Leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/RaviSoni804426/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/RaviSoni804426/Leetcode/tree/master/2087-confirmation-rate) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RaviSoni804426/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Bit Manipulation
 |  |
 | ------- |
