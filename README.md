@@ -230,6 +230,7 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/RaviSoni804426/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1523-capital-gainloss](https://github.com/RaviSoni804426/Leetcode/tree/master/1523-capital-gainloss) |
 | [1625-group-sold-products-by-the-date](https://github.com/RaviSoni804426/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
+| [1670-patients-with-a-condition](https://github.com/RaviSoni804426/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/RaviSoni804426/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/RaviSoni804426/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/RaviSoni804426/Leetcode/tree/master/1827-invalid-tweets) |
