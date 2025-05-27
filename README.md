@@ -55,6 +55,7 @@
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
 | [0860-design-circular-queue](https://github.com/RaviSoni804426/Leetcode/tree/master/0860-design-circular-queue) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/RaviSoni804426/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1034-subarrays-with-k-different-integers](https://github.com/RaviSoni804426/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/RaviSoni804426/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/RaviSoni804426/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/RaviSoni804426/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -296,6 +297,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/RaviSoni804426/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
+| [1034-subarrays-with-k-different-integers](https://github.com/RaviSoni804426/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1319-unique-number-of-occurrences](https://github.com/RaviSoni804426/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RaviSoni804426/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -315,6 +317,7 @@
 | [0169-majority-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
+| [1034-subarrays-with-k-different-integers](https://github.com/RaviSoni804426/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/RaviSoni804426/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RaviSoni804426/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -514,6 +517,7 @@
 | [0239-sliding-window-maximum](https://github.com/RaviSoni804426/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/RaviSoni804426/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/RaviSoni804426/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/RaviSoni804426/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RaviSoni804426/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
