@@ -69,6 +69,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/RaviSoni804426/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1833-find-the-highest-altitude](https://github.com/RaviSoni804426/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/RaviSoni804426/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/RaviSoni804426/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RaviSoni804426/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
