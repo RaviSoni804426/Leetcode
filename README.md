@@ -78,6 +78,7 @@
 | [2048-build-array-from-permutation](https://github.com/RaviSoni804426/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RaviSoni804426/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2066-add-minimum-number-of-rungs](https://github.com/RaviSoni804426/Leetcode/tree/master/2066-add-minimum-number-of-rungs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RaviSoni804426/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RaviSoni804426/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2181-smallest-index-with-equal-value](https://github.com/RaviSoni804426/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
@@ -303,6 +304,7 @@
 | [1848-sum-of-unique-elements](https://github.com/RaviSoni804426/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RaviSoni804426/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RaviSoni804426/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -320,6 +322,7 @@
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/RaviSoni804426/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/RaviSoni804426/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/RaviSoni804426/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Matrix
 |  |
