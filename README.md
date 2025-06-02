@@ -234,6 +234,7 @@
 | [1179-game-play-analysis-i](https://github.com/RaviSoni804426/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/RaviSoni804426/Leetcode/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/RaviSoni804426/Leetcode/tree/master/1258-article-views-i) |
+| [1268-market-analysis-i](https://github.com/RaviSoni804426/Leetcode/tree/master/1268-market-analysis-i) |
 | [1317-monthly-transactions-i](https://github.com/RaviSoni804426/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [1390-average-selling-price](https://github.com/RaviSoni804426/Leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/RaviSoni804426/Leetcode/tree/master/1415-students-and-examinations) |
