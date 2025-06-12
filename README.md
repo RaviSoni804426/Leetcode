@@ -94,6 +94,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/RaviSoni804426/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/RaviSoni804426/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/RaviSoni804426/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Math
 |  |
 | ------- |
