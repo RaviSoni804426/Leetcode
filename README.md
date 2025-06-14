@@ -76,6 +76,7 @@
 | [1833-find-the-highest-altitude](https://github.com/RaviSoni804426/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/RaviSoni804426/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RaviSoni804426/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RaviSoni804426/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RaviSoni804426/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -172,6 +173,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RaviSoni804426/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1651-shuffle-string](https://github.com/RaviSoni804426/Leetcode/tree/master/1651-shuffle-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RaviSoni804426/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RaviSoni804426/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/RaviSoni804426/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/RaviSoni804426/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -493,6 +495,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/RaviSoni804426/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1783-ways-to-make-a-fair-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1833-find-the-highest-altitude](https://github.com/RaviSoni804426/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RaviSoni804426/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2571-find-the-pivot-integer](https://github.com/RaviSoni804426/Leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Number Theory
 |  |
