@@ -64,6 +64,7 @@
 | [1305-number-of-visible-people-in-a-queue](https://github.com/RaviSoni804426/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/RaviSoni804426/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RaviSoni804426/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RaviSoni804426/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -206,6 +207,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/RaviSoni804426/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Database
 |  |
 | ------- |
@@ -358,6 +360,7 @@
 | [0074-search-a-2d-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RaviSoni804426/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/RaviSoni804426/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Backtracking
 |  |
