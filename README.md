@@ -112,6 +112,7 @@
 | [0089-gray-code](https://github.com/RaviSoni804426/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RaviSoni804426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/RaviSoni804426/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/RaviSoni804426/Leetcode/tree/master/0412-fizz-buzz) |
 | [0598-range-addition-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0598-range-addition-ii) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RaviSoni804426/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -202,6 +203,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/RaviSoni804426/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/RaviSoni804426/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RaviSoni804426/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/RaviSoni804426/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
