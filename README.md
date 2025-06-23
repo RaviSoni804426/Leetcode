@@ -61,6 +61,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/RaviSoni804426/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RaviSoni804426/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/RaviSoni804426/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/RaviSoni804426/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/RaviSoni804426/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/RaviSoni804426/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RaviSoni804426/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -211,6 +212,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/RaviSoni804426/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/RaviSoni804426/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Database
 |  |
