@@ -326,6 +326,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/RaviSoni804426/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
+| [0931-maximum-frequency-stack](https://github.com/RaviSoni804426/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RaviSoni804426/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1319-unique-number-of-occurrences](https://github.com/RaviSoni804426/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RaviSoni804426/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -494,6 +495,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/RaviSoni804426/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/RaviSoni804426/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0931-maximum-frequency-stack](https://github.com/RaviSoni804426/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1048-clumsy-factorial](https://github.com/RaviSoni804426/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RaviSoni804426/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/RaviSoni804426/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -532,6 +534,7 @@
 | [0155-min-stack](https://github.com/RaviSoni804426/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/RaviSoni804426/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/RaviSoni804426/Leetcode/tree/master/0860-design-circular-queue) |
+| [0931-maximum-frequency-stack](https://github.com/RaviSoni804426/Leetcode/tree/master/0931-maximum-frequency-stack) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -634,4 +637,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/RaviSoni804426/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/RaviSoni804426/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/RaviSoni804426/Leetcode/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
