@@ -29,6 +29,7 @@
 | [0118-pascals-triangle](https://github.com/RaviSoni804426/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaviSoni804426/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/RaviSoni804426/Leetcode/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/RaviSoni804426/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RaviSoni804426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/RaviSoni804426/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0162-find-peak-element) |
@@ -111,6 +112,7 @@
 | [0067-add-binary](https://github.com/RaviSoni804426/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/RaviSoni804426/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/RaviSoni804426/Leetcode/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/RaviSoni804426/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RaviSoni804426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/RaviSoni804426/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -313,6 +315,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/RaviSoni804426/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RaviSoni804426/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/RaviSoni804426/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RaviSoni804426/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RaviSoni804426/Leetcode/tree/master/0217-contains-duplicate) |
@@ -641,4 +644,8 @@
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/RaviSoni804426/Leetcode/tree/master/0931-maximum-frequency-stack) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/RaviSoni804426/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
