@@ -45,6 +45,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/RaviSoni804426/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0376-wiggle-subsequence](https://github.com/RaviSoni804426/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/RaviSoni804426/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/RaviSoni804426/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RaviSoni804426/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/RaviSoni804426/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -210,6 +211,7 @@
 | [0367-valid-perfect-square](https://github.com/RaviSoni804426/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/RaviSoni804426/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/RaviSoni804426/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -480,6 +482,7 @@
 | [0135-candy](https://github.com/RaviSoni804426/Leetcode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/RaviSoni804426/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/RaviSoni804426/Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/RaviSoni804426/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/RaviSoni804426/Leetcode/tree/master/0455-assign-cookies) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/RaviSoni804426/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/RaviSoni804426/Leetcode/tree/master/1448-maximum-69-number) |
@@ -508,6 +511,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RaviSoni804426/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RaviSoni804426/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/RaviSoni804426/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -548,6 +552,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaviSoni804426/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RaviSoni804426/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0376-wiggle-subsequence](https://github.com/RaviSoni804426/Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/RaviSoni804426/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/RaviSoni804426/Leetcode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RaviSoni804426/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RaviSoni804426/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
