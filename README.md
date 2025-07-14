@@ -286,6 +286,7 @@
 | [3767-find-students-who-improved](https://github.com/RaviSoni804426/Leetcode/tree/master/3767-find-students-who-improved) |
 | [3816-dna-pattern-recognition](https://github.com/RaviSoni804426/Leetcode/tree/master/3816-dna-pattern-recognition) |
 | [3848-analyze-subscription-conversion](https://github.com/RaviSoni804426/Leetcode/tree/master/3848-analyze-subscription-conversion) |
+| [3898-seasonal-sales-analysis](https://github.com/RaviSoni804426/Leetcode/tree/master/3898-seasonal-sales-analysis) |
 ## Bit Manipulation
 |  |
 | ------- |
