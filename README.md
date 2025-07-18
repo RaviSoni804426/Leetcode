@@ -57,6 +57,7 @@
 | [0598-range-addition-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0598-range-addition-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/RaviSoni804426/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/RaviSoni804426/Leetcode/tree/master/0724-find-pivot-index) |
 | [0790-global-and-local-inversions](https://github.com/RaviSoni804426/Leetcode/tree/master/0790-global-and-local-inversions) |
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
 | [0860-design-circular-queue](https://github.com/RaviSoni804426/Leetcode/tree/master/0860-design-circular-queue) |
@@ -520,6 +521,7 @@
 | [0525-contiguous-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/RaviSoni804426/Leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/RaviSoni804426/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/RaviSoni804426/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
