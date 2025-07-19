@@ -22,6 +22,7 @@
 | [0056-merge-intervals](https://github.com/RaviSoni804426/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/RaviSoni804426/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/RaviSoni804426/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RaviSoni804426/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RaviSoni804426/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -320,6 +321,7 @@
 | [0013-roman-to-integer](https://github.com/RaviSoni804426/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/RaviSoni804426/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RaviSoni804426/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/RaviSoni804426/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/RaviSoni804426/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RaviSoni804426/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -376,6 +378,7 @@
 | [0048-rotate-image](https://github.com/RaviSoni804426/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/RaviSoni804426/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/RaviSoni804426/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
