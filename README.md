@@ -30,6 +30,7 @@
 | [0118-pascals-triangle](https://github.com/RaviSoni804426/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RaviSoni804426/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/RaviSoni804426/Leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/RaviSoni804426/Leetcode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/RaviSoni804426/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RaviSoni804426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/RaviSoni804426/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -294,6 +295,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/RaviSoni804426/Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/RaviSoni804426/Leetcode/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/RaviSoni804426/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/RaviSoni804426/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RaviSoni804426/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RaviSoni804426/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
