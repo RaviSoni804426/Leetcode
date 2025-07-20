@@ -620,6 +620,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/RaviSoni804426/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -645,6 +646,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/RaviSoni804426/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -673,4 +675,8 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/RaviSoni804426/Leetcode/tree/master/0817-design-hashmap) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
