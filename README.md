@@ -61,6 +61,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/RaviSoni804426/Leetcode/tree/master/0724-find-pivot-index) |
 | [0790-global-and-local-inversions](https://github.com/RaviSoni804426/Leetcode/tree/master/0790-global-and-local-inversions) |
+| [0817-design-hashmap](https://github.com/RaviSoni804426/Leetcode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
 | [0860-design-circular-queue](https://github.com/RaviSoni804426/Leetcode/tree/master/0860-design-circular-queue) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/RaviSoni804426/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -340,6 +341,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RaviSoni804426/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/RaviSoni804426/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0817-design-hashmap](https://github.com/RaviSoni804426/Leetcode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
 | [0931-maximum-frequency-stack](https://github.com/RaviSoni804426/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RaviSoni804426/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -474,6 +476,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/RaviSoni804426/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/RaviSoni804426/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RaviSoni804426/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0817-design-hashmap](https://github.com/RaviSoni804426/Leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/RaviSoni804426/Leetcode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/RaviSoni804426/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RaviSoni804426/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -552,6 +555,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/RaviSoni804426/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/RaviSoni804426/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0817-design-hashmap](https://github.com/RaviSoni804426/Leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/RaviSoni804426/Leetcode/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/RaviSoni804426/Leetcode/tree/master/0931-maximum-frequency-stack) |
 ## Dynamic Programming
@@ -665,4 +669,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/RaviSoni804426/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/RaviSoni804426/Leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
