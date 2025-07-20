@@ -173,6 +173,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/RaviSoni804426/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/RaviSoni804426/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/RaviSoni804426/Leetcode/tree/master/0412-fizz-buzz) |
@@ -555,6 +556,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/RaviSoni804426/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/RaviSoni804426/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0817-design-hashmap](https://github.com/RaviSoni804426/Leetcode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/RaviSoni804426/Leetcode/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/RaviSoni804426/Leetcode/tree/master/0931-maximum-frequency-stack) |
@@ -619,6 +621,7 @@
 | [0226-invert-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/RaviSoni804426/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -632,6 +635,7 @@
 | [0226-invert-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/RaviSoni804426/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -645,6 +649,7 @@
 | [0226-invert-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/RaviSoni804426/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -654,6 +659,7 @@
 | [0101-symmetric-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/RaviSoni804426/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## String Matching
 |  |
 | ------- |
