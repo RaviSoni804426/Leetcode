@@ -93,6 +93,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RaviSoni804426/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RaviSoni804426/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RaviSoni804426/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/RaviSoni804426/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -440,6 +441,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0696-count-binary-substrings](https://github.com/RaviSoni804426/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/RaviSoni804426/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/RaviSoni804426/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RaviSoni804426/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -463,6 +465,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RaviSoni804426/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RaviSoni804426/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RaviSoni804426/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/RaviSoni804426/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Divide and Conquer
@@ -515,6 +518,7 @@
 | [0455-assign-cookies](https://github.com/RaviSoni804426/Leetcode/tree/master/0455-assign-cookies) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/RaviSoni804426/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/RaviSoni804426/Leetcode/tree/master/1448-maximum-69-number) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2066-add-minimum-number-of-rungs](https://github.com/RaviSoni804426/Leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2154-minimum-moves-to-convert-string](https://github.com/RaviSoni804426/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 ## Stack
