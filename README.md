@@ -93,6 +93,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RaviSoni804426/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RaviSoni804426/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/RaviSoni804426/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RaviSoni804426/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/RaviSoni804426/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -232,6 +233,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RaviSoni804426/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RaviSoni804426/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/RaviSoni804426/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Database
 |  |
 | ------- |
@@ -441,6 +443,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/RaviSoni804426/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0696-count-binary-substrings](https://github.com/RaviSoni804426/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/RaviSoni804426/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/RaviSoni804426/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/RaviSoni804426/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/RaviSoni804426/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RaviSoni804426/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
