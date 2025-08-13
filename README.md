@@ -198,6 +198,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/RaviSoni804426/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RaviSoni804426/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1651-shuffle-string](https://github.com/RaviSoni804426/Leetcode/tree/master/1651-shuffle-string) |
+| [1666-make-the-string-great](https://github.com/RaviSoni804426/Leetcode/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/RaviSoni804426/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RaviSoni804426/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/RaviSoni804426/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -549,6 +550,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/RaviSoni804426/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RaviSoni804426/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/RaviSoni804426/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1666-make-the-string-great](https://github.com/RaviSoni804426/Leetcode/tree/master/1666-make-the-string-great) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/RaviSoni804426/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
