@@ -190,6 +190,7 @@
 | [0696-count-binary-substrings](https://github.com/RaviSoni804426/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/RaviSoni804426/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/RaviSoni804426/Leetcode/tree/master/0837-most-common-word) |
+| [1078-remove-outermost-parentheses](https://github.com/RaviSoni804426/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RaviSoni804426/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/RaviSoni804426/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/RaviSoni804426/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -545,6 +546,7 @@
 | [0503-next-greater-element-ii](https://github.com/RaviSoni804426/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0931-maximum-frequency-stack](https://github.com/RaviSoni804426/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1048-clumsy-factorial](https://github.com/RaviSoni804426/Leetcode/tree/master/1048-clumsy-factorial) |
+| [1078-remove-outermost-parentheses](https://github.com/RaviSoni804426/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RaviSoni804426/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/RaviSoni804426/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/RaviSoni804426/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
