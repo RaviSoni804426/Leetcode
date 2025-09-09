@@ -488,6 +488,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RaviSoni804426/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/RaviSoni804426/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/RaviSoni804426/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RaviSoni804426/Leetcode/tree/master/0169-majority-element) |
 ## Trie
@@ -499,6 +500,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RaviSoni804426/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/RaviSoni804426/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/RaviSoni804426/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/RaviSoni804426/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/RaviSoni804426/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RaviSoni804426/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -650,6 +652,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RaviSoni804426/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/RaviSoni804426/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaviSoni804426/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Queue
@@ -732,4 +735,8 @@
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RaviSoni804426/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/RaviSoni804426/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
